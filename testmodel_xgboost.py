@@ -6,8 +6,8 @@ from sklearn.metrics import mean_squared_error
 import xgboost as xgb
 
 
-dataset = np.loadtxt('combined-education-vaccine-set.csv', delimiter=',')
-X = dataset[:,2:6]
+dataset = np.loadtxt('combined-education-vaccine-set-(5).csv', delimiter=',',  encoding='utf-8-sig')
+X = dataset[:,2:65]
 Y = dataset[:,1]
 print(X[0])
 print(Y[0])
