@@ -7,6 +7,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.metrics import mean_squared_error
 import plotly.figure_factory as ff
 from numba import jit, cuda
+import shap
 
 
 dataset = np.loadtxt('upd-combined-education-vaccine-set-final.csv', delimiter=',')
