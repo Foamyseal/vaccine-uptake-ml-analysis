@@ -3,7 +3,7 @@ ML Analysis of COVID-19 Vaccine uptake vs. sociodemographic factors for 2021 Und
 Done with Queena Cheong, Katsy Concepcion, Stephanie Quon and myself. 
 
 
-Currently being Peer reviewed, pending publication: https://doi.org/10.2196/preprints.33231
+Published @ JMIR: https://doi.org/10.2196/33231
 
 
 Accuracy and Error Scores:
